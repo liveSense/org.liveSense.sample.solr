@@ -3,8 +3,8 @@
 ## Description
 This samplecontains default configurations and servlets for City/Postal code/Street location database indexing
 
-## Exported packages
+## OSGi Exported packages
 
-## Dependencies
+## OSGi Dependencies
 
-## Embedded JARs
+## OSGi Embedded JARs
