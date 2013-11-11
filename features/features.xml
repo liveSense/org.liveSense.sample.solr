@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-sample-solr" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-sample-solr" version="${liveSense.sample.solr.version}" description="liveSense sample solr">
+		<bundle>mvn:com.github.livesense/org.liveSense.sample.solr/${liveSense.sample.solr.version}</bundle>
+	</feature>
+</features>
