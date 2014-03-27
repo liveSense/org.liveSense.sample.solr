@@ -7,6 +7,11 @@
 		<version>2-SNAPSHOT</version>
         <relativePath>../</relativePath>
 	</parent>
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.sample.solr.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.sample.solr.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.sample.solr</url>
+	</scm>
 
 	<artifactId>org.liveSense.sample.solr</artifactId>
 	<name>liveSense :: Sample :: Sorl</name>
