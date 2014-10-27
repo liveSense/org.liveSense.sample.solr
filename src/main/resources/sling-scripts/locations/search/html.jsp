@@ -17,7 +17,7 @@
 <%@page import="org.liveSense.service.solr.impl.SolrServerServiceImpl"%>
 <%@page import="org.apache.sling.jcr.jackrabbit.accessmanager.PrivilegesInfo"%>
 <%@page import="org.apache.sling.api.resource.ValueMap"%>
-<%@page import="org.liveSense.core.wrapper.JcrNodeWrapper"%>
+<%@page import="org.liveSense.misc.jcrWrapper.JcrNodeWrapper"%>
 <%@page contentType="text/html; charset=UTF-8" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@taglib prefix="sling" uri="http://sling.apache.org/taglibs/sling/1.0"%>
